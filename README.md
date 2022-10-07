@@ -5,8 +5,8 @@ Marking the start of my journey to Open-source today Friday the 7th October :dat
 
 ## What's motivating me? :eyes:
 As a Fan of Uncle Bob :star_struck:, I have been wanting to use his coding and design principles into practice for a while now. But I have been working for large applications since the beginning of my career :baby: (in 2016). Now I understand that if I want to practice what I preach, gotta do it my way. 
-Along with that, what's attracting me towards open source is the :sparkles: creativity :sparkles: of it. There a solution to eveyr problem in open source. A developer somewhere faces a major error they have never encountered, they can count on StackOverFlow foe having the answers. How does those answers get there? a handful of highly passionate people put it there. They took time out of theor lives to help another fellow programmer. It can be you, me anybody... and that's exactly what's driving me right now. 
-Being in an organisation that promoted open-source makes the top-tier of my cake. :birthday:
+Along with that, what's attracting me towards open source is the :sparkles: creativity :sparkles: of it. There a solution to every problem in open source. A developer somewhere faces a major error they have never encountered, they can count on StackOverFlow for having the answers. How does those answers get there? a handful of highly passionate people put it there. They took time out of their lives to help another fellow programmer. It can be you, me anybody... and that's exactly, what's driving me right now. 
+Being in an organisation that promotes open-source makes the top-tier of my cake. :birthday:
 
 ## What Am I reading now?
 Oh yesssssss, Big bookworm who hasn't got anytime to read in a while.
